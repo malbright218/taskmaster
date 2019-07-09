@@ -1,0 +1,13 @@
+body {
+  background-color: #544B6A;
+}
+
+.container {
+  width: 540px;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+
+.row {
+  width: 540px;
+}
